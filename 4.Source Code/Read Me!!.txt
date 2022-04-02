@@ -1,0 +1,7 @@
+1. Start up XAMPP (Apache and MySQL).
+
+2. In MySQL, Import "onlinecourse.sql" file located in "sql file" folder.
+
+3. Locate the "Source Code/index.php" file by typing "localhost" into a web browser and finding the location of the "Source Code" file.
+
+4. Enjoy!!
